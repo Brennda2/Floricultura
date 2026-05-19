@@ -1,4 +1,4 @@
-# 🌻 Floricultura
+# 🌻 Floricultura - POO em PHP
 
 Projeto desenvolvido em grupo na disciplina **Programação Orientada a Objeto com PHP**.
 * 👩‍💻 **Brennda Lopes, Github: https://github.com/Brennda2/**
