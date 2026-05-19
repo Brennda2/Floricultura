@@ -1,0 +1,9 @@
+{
+    "name": "loja/floricultura",
+    "autoload": {
+        "psr-4": {
+            "Loja\\Floricultura\\": "src/"
+        }
+    },
+    "require": {}
+}
